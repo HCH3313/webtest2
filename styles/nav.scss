@@ -1,0 +1,28 @@
+nav {
+    background-color: #e2b0b0;
+
+    ul {
+        display: flex;
+        padding-left: 1rem;
+        list-style-type: none;
+
+        li {
+            padding: 0.5rem 0.75rem;
+
+            a {
+                text-decoration: none;
+                color: #c21414;
+                font-size: 1.25rem;
+
+                i {
+                    font-size: 2rem;
+                }
+            }
+
+            &:hover {
+                color: yellow;
+            }
+
+        }
+    }
+}

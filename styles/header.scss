@@ -1,0 +1,15 @@
+header {
+    background-color: $background-color;
+    width: 100%;
+    padding: 1rem;
+    font-weight: 800;
+    font-size: $fontsize;
+
+    h1 {
+        font-size: 3rem;
+
+        i {
+            font-size: 3rem;
+        }
+    }
+}
